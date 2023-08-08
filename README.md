@@ -1,8 +1,10 @@
 ## Data Analysis Project
 
-This project works with a dataset from kaggle which contains data about competitors in powerlifitng competitions.
+This project works with a Kaggle dataset containing data about competitors in powerlifting competitions.
 
-After filtering and cutting down the dataset to 30k compeitors a series of graphs are created to demonstrate unique
-relationships found between certain characteristics of the competitors.
+After filtering and cutting down the dataset to 30k competitors a series of graphs are created to demonstrate unique
+relationships found between specific characteristics of the competitors.
+
+These graphs are then analysed in the AnalysisOfGraphs.pdf
 
 Link to dataset: https://www.kaggle.com/datasets/open-powerlifting/powerlifting-database

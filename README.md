@@ -7,6 +7,6 @@ relationships found between specific characteristics of the competitors.
 
 These graphs are then analysed in the AnalysisOfGraphs.pdf
 
-Link to dataset: https://www.kaggle.com/datasets/open-powerlifting/powerlifting-database
+Link to dataset: https://www.kaggle.com/datasets/open-powerlifting/powerlifting-database  
 Note that while the original dataset contained 1.5 million competitors the graphs displayed in this project are from the first 30,000 rows of the dataset
 because my current computer is fairly weak.
